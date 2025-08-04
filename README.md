@@ -6,7 +6,7 @@ This project is a simulation of a key-value database storage system implemented 
 
 To run this application, you will need a Java Development Kit (JDK) installed (version 21 or higher recommended).
 
-1.  **Build the Java Jar (or use built one in the root of project) :**
+1.  **Build the Java Jar (or use built one in the resources directory of a project) :**
 
     ```
     mvn package
